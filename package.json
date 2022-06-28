@@ -1,0 +1,19 @@
+{
+  "name": "myportfolio_bff",
+  "version": "1.0.0",
+  "description": "## 技術スタック",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yuisei-Maruyama/MyPortfolio_BFF.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yuisei-Maruyama/MyPortfolio_BFF/issues"
+  },
+  "homepage": "https://github.com/Yuisei-Maruyama/MyPortfolio_BFF#readme"
+}
